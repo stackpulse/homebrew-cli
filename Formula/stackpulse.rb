@@ -3,7 +3,7 @@ class Stackpulse < Formula
   homepage "https://stackpulse.com"
   version "0.5.1"
   url "https://storage.googleapis.com/stackpulse-public/release/latest/darwin/amd64/stackpulse-0.5.1.tar.gz"
-  sha256 "2d5a9d68ee551d23f607cf1a0b9e6b7bd1d9eaf0cc0f524521305512ceb0c535"
+  sha256 "f21fd876a5d0a508feef4b6cca1ec07e027a761a984dbe4ebaef6c3ecb817dbc"
   bottle :unneeded
 
   def install
