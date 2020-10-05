@@ -3,11 +3,11 @@ class Stackpulse < Formula
   homepage "https://stackpulse.com"
   version "0.5.1"
   url "https://storage.googleapis.com/stackpulse-public/release/latest/darwin/amd64/stackpulse-0.5.1.tar.gz"
-  sha256 "34bac2c3f1fd79b56a1043b2057e2f84c9ec9c5d6e1f64a38a8656ae3681da6c"
+  sha256 "2d5a9d68ee551d23f607cf1a0b9e6b7bd1d9eaf0cc0f524521305512ceb0c535"
   bottle :unneeded
 
   def install
-    bin.install "bin/stackpulse"
+    bin.install "stackpulse"
   end
 
   test do
