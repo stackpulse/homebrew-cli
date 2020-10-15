@@ -1,9 +1,9 @@
 class Stackpulse < Formula
   desc "StackPulse command-line tool"
   homepage "https://stackpulse.com"
-  version "0.5.3"
-  url "https://storage.googleapis.com/stackpulse-public/release/latest/darwin/amd64/stackpulse-0.5.3.tar.gz"
-  sha256 "871aa27977978d43117ee5b5791478f591989cab1190005498891d486a018a91"
+  version "0.5.4"
+  url "https://storage.googleapis.com/stackpulse-public/release/latest/darwin/amd64/stackpulse-0.5.4.tar.gz"
+  sha256 "66c63b8b1e5e62f9829baeeca558e950846403e3277cf5a4c21e840e78a5d911"
   bottle :unneeded
 
   def install
